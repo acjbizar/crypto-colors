@@ -5,6 +5,7 @@ Crypto brand colors. Inspired by [brand colors](https://github.com/reimertz/bran
 
 ## Featured
 
+- [x] Cardano
 - [x] Kusama
 - [x] Polkadot
 - [x] Solana
@@ -14,7 +15,6 @@ Crypto brand colors. Inspired by [brand colors](https://github.com/reimertz/bran
 ### Add the following:
 
 - [ ] Bitcoin
-- [ ] Cardano
 - [ ] Ethereum
 - [ ] Polygon
 - [ ] Avalanche
