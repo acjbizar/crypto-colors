@@ -1,6 +1,6 @@
 {
   "name": "crypto-colors",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Brand colors in the crypto space.",
   "main": "index.js",
   "scripts": {
@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/acjbizar/crypto-colors#readme",
   "devDependencies": {
-    "gulp": "^4.0.2",
-    "gulp-sass": "^5.1.0",
-    "sass": "^1.57.1"
+    "gulp": "*",
+    "gulp-sass": "*",
+    "sass": "*"
   }
 }
